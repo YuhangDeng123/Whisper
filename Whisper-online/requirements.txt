@@ -1,0 +1,9 @@
+gradio
+transformers
+torch
+git+https://github.com/pytube/pytube
+datasets
+torchaudio
+librosa
+jiwer
+moviepy
