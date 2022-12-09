@@ -26,8 +26,7 @@ https://huggingface.co/YuhangDeng123/whisper-small-hi
 2. Change the fine-tuning model architecture: We used the whisper-small model this time. Whisper has launched a total of six models that can be used for speech recognition. By choosing a more advanced model such as whisper-medium or whisper-large, the performance of the system can be improved, but this will have higher requirements on the graphics card and will take more time. Wav2Vec 2.0 is another speech recognition model that may be used to improve system performance.
 
 # The answers of Task 2 - Describe the ways that can be used to improve model performance.(The data-centric approaches)
-1. Tun
-2. 
+1. A better ASR data set can be used to improve the performance of the system. For example, librispeech is another English ASR data set, which may help improve the performance of the system. This dataset can be downloaded on hugging face, here is the URL: https://huggingface.co/datasets/librispeech_asr.
 
 
 
