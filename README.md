@@ -18,8 +18,12 @@ https://huggingface.co/spaces/YuhangDeng123/Whisper-offline
 https://huggingface.co/spaces/YuhangDeng123/Whisper-online
 # Hugging Face Spaces public URL of fine-tuned and trained whisper-small model for cantonese.
 https://huggingface.co/YuhangDeng123/whisper-small-hi
-/n
-# The answers of Task 2 - Describe the ways that can be used to improve model performance.
-1. The way
+
+
+
+# The answers of Task 2 - Describe the ways that can be used to improve model performance.(The model-centric approaches)
+1. Tuning the hyperparameters: We can adjust the batch size, learning rate, and max steps number to optimize the model. First, we can adjust the batch size. As the batch size increases, the speed at which the model processes the same amount of data during training would increase, so the model can converge faster, and it is easy to reach local optimum. Since different local optimum points have different precision, adjusting the batch size can find the local optimum point with the best system performance. Dynamically adjust the batch size, making the batch size larger in the early stage of training can make the convergence faster, and making the batch size smaller in the later stage can improve the convergence accuracy and get better performance. Secondly, we can adjust the learning rate of the model to improve the performance of the model. A larger learning rate can increase the convergence speed, and is conducive to jumping out of the local optimum, but it will also make the system swing in a larger area near the optimal value. A smaller learning rate will lead to slower convergence and may be trapped in a local optimum, but better convergence accuracy can be obtained. In order to improve the performance of the system, the learning rate can be dynamically adjusted. In the early stage of training, a larger learning rate is used to accelerate convergence, and in the later stage of training, a smaller learning rate is used to approach the optimal point. F
+# The answers of Task 2 - Describe the ways that can be used to improve model performance.(The data-centric approaches)
+
 
 
