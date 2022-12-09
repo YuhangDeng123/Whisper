@@ -18,7 +18,8 @@ https://huggingface.co/spaces/YuhangDeng123/Whisper-offline
 https://huggingface.co/spaces/YuhangDeng123/Whisper-online
 # Hugging Face Spaces public URL of fine-tuned and trained whisper-small model for cantonese.
 https://huggingface.co/YuhangDeng123/whisper-small-hi
-
-
+/n
+# The answers of Task 2 - Describe the ways that can be used to improve model performance.
+1. The way
 
 
